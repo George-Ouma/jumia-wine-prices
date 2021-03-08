@@ -1,0 +1,2 @@
+# Jumia Wine Prices
+In this project, I use a few of python's packages to scrape data from an online wine retailer. Some of the pieces of data that I scraped are the name of the product, its current retailing price, its previous retailing price, a percentage representing the price change, and the number of reviews from confirmed buyers. Finally, I present all the data in a dataframe for future additional analysis.
